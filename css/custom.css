@@ -1,0 +1,18 @@
+.breadcrumb-item a, .teal{
+    color:rgb(45, 231, 231) ;
+}
+
+.navbar-toggler{
+    position:absolute;
+    right:7vw;
+}
+
+.cart-icon{
+    position:absolute;
+    right:1vw;
+}
+
+.btn-search{
+    position:relative;
+    right:3vw; 
+}
